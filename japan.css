@@ -1,0 +1,102 @@
+body {
+  position: relative;
+  background-color: rgb(4, 1, 9);
+  margin: 3rem 15rem;
+  box-sizing: border-box;
+  background-position: 75cm;
+  color: rgb(255, 255, 255);
+  background-image: url();
+  background-size: cover;
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+  text-emphasis-color: black;
+}
+
+h2 {
+  font-style: oblique;
+  font-size: large;
+}
+
+h3 {
+  font-style: inherit;
+  font-size: large;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+
+  width: 200px;
+}
+
+.japan-gate {
+  width: 150px;
+}
+#one {
+  border: 111px solid red;
+  text-align: center;
+}
+#two {
+  border: 110px solid blue;
+}
+.japan-sunrise {
+  width: 250px;
+  display: inline-block;
+}
+.paragraph-one {
+  margin: auto;
+  background-color: (hsl(73, 71%, 79%), #71f53e, #116c31);
+}
+.precipitation {
+  background-color: rgb(186, 60, 240);
+  font-size: small;
+}
+.precipitation-1 {
+  background-color: rgb rgb(41, 38, 220);
+  font-size: small;
+}
+.sunrise {
+  background-color: rgb(132, 37, 200);
+  font-size: small;
+}
+.climate {
+  background-color: rgb(59, 59, 235);
+  font-size: small;
+}
+.soils {
+  background-color: rgb(126, 244, 126);
+  font-size: small;
+  color: black;
+}
+.drainage {
+  background-color: rgb(70, 70, 245);
+  font-style: italic;
+  font-size: small;
+}
+.physiographic {
+  background-color: rgb(128, 28, 200);
+  font-style: inherit;
+  font-size: small;
+}
+.region {
+  background-color: rgb(82, 35, 235);
+  font-size: small;
+}
+.streets {
+  font-style: italic;
+  font-size: small;
+  background-color: rgb(254, 236, 214);
+  color: black;
+}
+
+.hokkaido {
+  position: fixed;
+  right: 0px;
+}
